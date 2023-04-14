@@ -23,7 +23,7 @@ const Home: NextPage = () => {
       <Navbar />
       <main className="grid grid-cols-[3fr_1fr] py-12">
         <h1 className="text-8xl font-bold w-[40rem] leading-[90%] tracking-[-2px]">
-          <AnimatedWords title="Helper robots for a better everyday" />
+          <AnimatedWords title="Part Of the Journey is the END" />
         </h1>
         <motion.div
           className="text-base leading-[150%] self-end"
